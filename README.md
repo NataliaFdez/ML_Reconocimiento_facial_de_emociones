@@ -19,7 +19,7 @@ El proyecto consta de :
 Notebooks de Visual Studio Code con Python 3, Canva
 
 ## Datos utilizados 📖
-- kaggle.com
+- kaggle.com :
 https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset/code?datasetId=99505&sortBy=voteCount
 
 ## Autora ✒️
