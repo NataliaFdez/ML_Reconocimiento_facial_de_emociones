@@ -1,0 +1,4 @@
+Descargar los datos de entrenamiento incluir en esta carpeta de:
+
+
+https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset/code?datasetId=99505&sortBy=voteCount
